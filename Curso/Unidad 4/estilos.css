@@ -1,0 +1,20 @@
+.body {
+
+    background-color: rgb(157, 174, 204);
+    margin-left: 50px;
+}
+
+.header__title {
+
+    color: rgb(10, 20, 112);
+}
+
+.subtitle {
+
+    color: rgb(58, 66, 138);
+}
+
+.ul__subtitle {
+
+    font-size: 18px;
+}

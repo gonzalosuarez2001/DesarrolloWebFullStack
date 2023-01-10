@@ -1,0 +1,24 @@
+.body {
+
+    background: linear-gradient(to bottom,rgb(64, 118, 211),rgb(216, 222, 255));
+    padding-left: 50px;
+    box-shadow: 1px 1px 10px 1px rgb(19, 19, 19);
+    border-radius: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header__title {
+
+    color: rgb(10, 20, 112);
+}
+
+.subtitle {
+
+    color: rgb(58, 66, 138);
+}
+
+.ul__subtitle {
+
+    font-size: 18px;
+}
+

@@ -1,0 +1,23 @@
+.contenedor {
+
+    display: flex;
+    height: 100px;
+    width: 500px;
+    border: 2px solid #000;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.item {
+
+    display: flex;
+    width: 100px;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+.text {
+
+    color: #fff;
+}
